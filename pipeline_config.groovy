@@ -5,5 +5,4 @@
     all apps governed by this config. 
 */
 libraries{
-  sonarqube
 }
